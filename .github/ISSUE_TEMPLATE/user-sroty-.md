@@ -1,11 +1,4 @@
 
----
-name: 'User Story'
-about: Defines a user story with clear intent, assumptions, and acceptance criteria.
-title: 'Create and Manage Products in Catalog'
-labels: 'user-story'
-assignees: ''
----
 
 **As an** Administrator  
 **I need** the ability to create and manage products in the catalog  
