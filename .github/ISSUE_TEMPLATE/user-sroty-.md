@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-**As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+**As a** [Enge]  
+ **I need** [the ability to create a product in the catalog]  
+ **So that** [i can edit and modify the catalog]  
    
  ### Details and Assumptions
  * [document what you know]
